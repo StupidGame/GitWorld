@@ -1,0 +1,5 @@
+name: GitWorld
+version: '${project.version}'
+main: io.github.stupidgame.gitworld.GitWorld
+api-version: 1.16
+authors: [ StupidGame ]
